@@ -1,1 +1,2 @@
-# DC-Capstone
+# Data Science Capstone
+Erick Gaitán
