@@ -1,2 +1,2 @@
-# Data Science Capstone
+# ML and DL Models
 Erick Gaitán
